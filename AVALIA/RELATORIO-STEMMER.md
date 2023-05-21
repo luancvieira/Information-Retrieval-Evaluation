@@ -6,35 +6,35 @@ Utilizando Porter Stemmer? Sim
 
 ## 11-point precision recall curve
 
-![11 point precision recall curve](11_point_curve-STEMMER.png)
+![11 point precision recall curve](11_points_curve-stemmer+".png")
 ## F1 Score
 
 F1 Score médio das queries: 0.0724696466960625
 
 ## Precision@5
 
-Precision@5 médio das questies: 0.06666666666666667
+Precision@5 médio das questies: 0.04848484848484849
 
 ## Precision@10
 
-Precision@10 médio das questies: 0.06262626262626261
+Precision@10 médio das questies: 0.0494949494949495
 
 ## Histograma R-Precision
 
-![R-Precision](R_Precision_histogram-STEMMER.png)
+![R-Precision](R_Precision_histogram-stemmer+".png")
 ## Mean Average Precision
 
-Mean Average Precision das queries: 0.04829882977107182
+Mean Average Precision das queries: 0.04617688440239177
 
 ## Mean Reciprocal Rank
 
-Mean Reciprocal Rank das queries: 0.7418991502324837
+Mean Reciprocal Rank das queries: 0.784419592752926
 
 ## Discounted Cumulative Gain
 
-Discounted Cumulative Gain médio das queries: 0.8541325185765266
+Discounted Cumulative Gain médio das queries: 0.48051683433255943
 
 ## Normalized Discounted Cumulative Gain
 
-Normalized Discounted Cumulative Gain médio das queries: 0.027783998734322142
+Normalized Discounted Cumulative Gain médio das queries: 0.0156754911360337
 
