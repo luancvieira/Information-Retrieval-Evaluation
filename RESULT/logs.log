@@ -40,16 +40,18 @@ WARNING: Document 1154 in CysticFibrosis2-20230331/data/cf79.xml without ABSTRAC
 WARNING: Document 1187 in CysticFibrosis2-20230331/data/cf79.xml without ABSTRACT and EXTRACT.
 WARNING: Document 1225 in CysticFibrosis2-20230331/data/cf79.xml without ABSTRACT and EXTRACT.
 INFO: Inverted list generated with 9408 terms considered.
-INFO: 9408 terms written. Saved inverted list to 'RESULT/LISTA INVERSA.csv'
+INFO: 9408 terms written. Saved inverted list to 'RESULT/LISTA INVERSA-NOSTEMMER.csv'
 INFO: Module 2: Generate Inverted List finished
 INFO: Module 3: Index started
-INFO: Loading word and documents data from RESULT/LISTA INVERSA.csv
+INFO: Loading word and documents data from RESULT/LISTA INVERSA-NOSTEMMER.csv
 INFO: tfidf matrix created.
 INFO: tfidf matrix and vectorizer saved to RESULT/ModeloTFIDF.pkl.
 INFO: Module 3: Index finished.
 INFO: Module 4: Searcher started
 INFO: tfidf model loaded from RESULT/ModeloTFIDF.pkl
 INFO: Queries loaded from RESULT/CONSULTAS.csv
-INFO: Results saved to RESULT/RESULTADOS.csv
+INFO: Results saved to RESULT/RESULTADOS-NOSTEMMER.csv
 INFO: Module 4: Searcher finished
 INFO: Execution completed
+INFO: Generating report file RELATORIO-NOSTEMMER.md.
+INFO: Report file generated and saved at AVALIA\RELATORIO-NOSTEMMER.md.
