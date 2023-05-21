@@ -6,7 +6,7 @@ Utilizando Porter Stemmer? Sim
 
 ## 11-point precision recall curve
 
-![11 point precision recall curve](11_points_curve-stemmer+".png")
+![11 point precision recall curve](11_points_curve-stemmer.png)
 ## F1 Score
 
 F1 Score médio das queries: 0.0724696466960625
@@ -21,7 +21,7 @@ Precision@10 médio das questies: 0.0494949494949495
 
 ## Histograma R-Precision
 
-![R-Precision](R_Precision_histogram-stemmer+".png")
+![R-Precision](R_Precision_histogram-stemmer.png)
 ## Mean Average Precision
 
 Mean Average Precision das queries: 0.04617688440239177

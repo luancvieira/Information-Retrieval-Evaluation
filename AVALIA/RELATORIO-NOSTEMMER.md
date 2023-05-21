@@ -6,7 +6,7 @@ Utilizando Porter Stemmer? Não
 
 ## 11-point precision recall curve
 
-![11 point precision recall curve](11_points_curve-nostemmer+".png")
+![11 point precision recall curve](11_points_curve-nostemmer.png)
 ## F1 Score
 
 F1 Score médio das queries: 0.0724696466960625
@@ -21,7 +21,7 @@ Precision@10 médio das questies: 0.06262626262626261
 
 ## Histograma R-Precision
 
-![R-Precision](R_Precision_histogram-nostemmer+".png")
+![R-Precision](R_Precision_histogram-nostemmer.png)
 ## Mean Average Precision
 
 Mean Average Precision das queries: 0.04829882977107182
