@@ -15,4 +15,7 @@ PESC - COPPE/ UFRJ
 
 - [X] Module 4 - Searcher
 
+- [X] Module 5 - Evaluation
+
 - [X] [Results](RESULT/)
+- [X] [Evaluation](AVALIA/)
