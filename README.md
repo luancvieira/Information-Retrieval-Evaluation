@@ -3,7 +3,7 @@ PESC - COPPE/ UFRJ
 
 - [X] [Model Description](Modelo%20Vetorial.doc)
 
-- [X] [Code](src/Information%20Retrieval%20Evaluation.ipynb)
+- [X] [Code](src/IR%20Evaluation.ipynb)
 
 - [X] Data prep - Read and check [config files](config_files/), set [log](RESULT/logs.log) and paths.
 
