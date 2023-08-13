@@ -1,7 +1,7 @@
 # Information-Retrieval
 PESC - COPPE/ UFRJ
 
-- [X] [Model Description](Modelo%20Vetorial.doc)
+- [X] [Model Description](/Modelo%20Vetorial.pdf)
 
 - [X] [Code](src/IR%20evaluation.ipynb)
 
